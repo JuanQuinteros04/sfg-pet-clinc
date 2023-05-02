@@ -45,16 +45,14 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
-                    <checkModificationExcludes>
-                        <checkModificationExclude>pom.xml</checkModificationExclude>
-                    </checkModificationExcludes>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
                 </configuration>
             </plugin>
         </plugins>
     </build>
 
     <scm>
-        <developerConnection>scm:https://github.com/JuanQuinteros04/sfg-pet-clinc.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:JuanQuinteros04/sfg-pet-clinc.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
