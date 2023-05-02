@@ -52,7 +52,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:JuanQuinteros04/sfg-pet-clinc.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/JuanQuinteros04/sfg-pet-clinc.git</developerConnection>
         <tag>sfg-pet-clinic-1.2</tag>
     </scm>
 
