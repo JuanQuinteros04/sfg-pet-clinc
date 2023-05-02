@@ -9,7 +9,7 @@
     </parent>
     <groupId>guru.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
 
     <packaging>pom</packaging>
 
@@ -53,7 +53,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:JuanQuinteros04/sfg-pet-clinc.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>sfg-pet-clinic-1.2</tag>
     </scm>
 
 </project>
